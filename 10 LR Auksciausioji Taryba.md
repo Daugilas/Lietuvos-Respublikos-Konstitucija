@@ -98,7 +98,6 @@ Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas:
 8. skiria Lietuvos Respublikos apdovanojimus ir suteikia garbės vardus;
 9. teikia Aukščiausiajai Tarybai Lietuvos aukščiausiojo teismo teisėjų ir tarėjų kandidatūras; teikia malonę asmenims, kuriuos yra nuteisę Lietuvos teismai;
 10. skiria ir atšaukia Lietuvos diplomatinius atstovus užsienio valstybėse ir prie tarptautinių organizacijų;
-11. suteikia ir atima aukščiausius Lietuvos Respublikos diplomatinius rangus; priima prie jo akredituotų užsienio valstybių diplomatinių atstovų įgaliojamuosius ir atšaukiamuosius raštus;
 12. vykdo kitokius Aukščiausiosios Tarybos pavedimus.
 
 Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas leidžia nenormatyvinius įsakus ir priima nutarimus.
@@ -121,7 +120,8 @@ Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas:
 2. pateikia Aukščiausiajai Tarybai pranešimus dėl Respublikos padėties ir dėl svarbių Lietuvos vidaus ir užsienio politikos klausimų;
 3. pateikia Aukščiausiajai Tarybai kandidatūras išrinkimui į Aukščiausiosios Tarybos Pirmininko pavaduotojų ir Aukščiausiosios Tarybos Sekretoriaus pareigas;
 4. pateikia Aukščiausiajai Tarybai kandidatūras paskyrimui arba išrinkimui į Lietuvos Respublikos Ministro Pirmininko, Lietuvos Respublikos aukščiausiojo teismo pirmininko, Lietuvos Respublikos generalinio prokuroro, kitų Aukščiausiajai Tarybai atskaitingų valstybės organų vadovų pareigas;
-5. veda derybas ir pasirašo Lietuvos Respublikos tarptautines sutartis, pateikdamas jas ratifikuoti Lietuvos Respublikos Aukščiausiajai Tarybai.
+5. veda derybas ir pasirašo Lietuvos Respublikos tarptautines sutartis, pateikdamas jas ratifikuoti Lietuvos Respublikos Aukščiausiajai Tarybai;
+6. priima užsienio valstybių diplomatinių atstovų įgaliojamuosius ir atšaukiamuosius raštus.
 
 Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas leidžia potvarkius.
 
